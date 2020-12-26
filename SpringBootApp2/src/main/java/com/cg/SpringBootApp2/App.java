@@ -12,7 +12,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!rwerwerwerwerewrdfdsfsdfdsfds" );
+        System.out.println( "Hello World!" );
+        System.out.println("Spring Boot Practice example ");
         SpringApplication.run(App.class, args);
     }
 }
